@@ -17,7 +17,7 @@ li:last-child {
 li:lang(en-GB) {
   margin: 5px;
   background-color: rgba(0, 255, 0, 0.75);
-  background-image: url("en-GB.png");
+  background-image: url("images/en-GB.png");
   background-repeat: no-repeat;
   background-position-y: center;
 }
@@ -25,7 +25,7 @@ li:lang(en-GB) {
 li:lang(es) {
   margin: 5px;
   background-color: rgba(0, 0, 255, 0.5);
-  background-image: url("es.png");
+  background-image: url("images/es.png");
   background-repeat: no-repeat;
   background-position-y: center;
 }
@@ -33,7 +33,7 @@ li:lang(es) {
 li:lang(de) {
   margin: 5px;
   background-color: rgba(255, 0, 0, 0.25);
-  background-image: url("de.png");
+  background-image: url("images/de.png");
   background-repeat: no-repeat;
   background-position-y: center;
 }
