@@ -20,6 +20,7 @@ li:lang(en-GB) {
   background-image: url("images/en-GB.png");
   background-repeat: no-repeat;
   background-position-y: center;
+  background-position-x: 5px;
 }
 
 li:lang(es) {
@@ -28,6 +29,7 @@ li:lang(es) {
   background-image: url("images/es.png");
   background-repeat: no-repeat;
   background-position-y: center;
+  background-position-x: 5px;
 }
 
 li:lang(de) {
@@ -36,6 +38,7 @@ li:lang(de) {
   background-image: url("images/de.png");
   background-repeat: no-repeat;
   background-position-y: center;
+  background-position-x: 5px;
 }
 
 a {
