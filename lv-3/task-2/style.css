@@ -70,3 +70,17 @@ p {
   padding: 10px;
   color: white;
 }
+
+#male {
+  position: absolute;
+  left: 100px;
+  top: 50px;
+  z-index: 1;
+}
+
+#female {
+  position: absolute;
+  left: 300px;
+  top: 150px;
+  z-index: 0;
+}
