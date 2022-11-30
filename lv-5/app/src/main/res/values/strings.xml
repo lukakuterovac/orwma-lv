@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lv-5</string>
+    <string name="textview_text">TextView</string>
+    <string name="name_text">Name</string>
+    <string name="details_text">Details</string>
+    <string name="input_text">Input</string>
+    <string name="height_text">Height</string>
+    <string name="weight_text">Weight</string>
+    <string name="calculate_text">Calculate</string>
+    <string name="bmi_text">BMI</string>
+</resources>
