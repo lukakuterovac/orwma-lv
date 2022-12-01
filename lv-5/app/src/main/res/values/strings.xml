@@ -7,5 +7,4 @@
     <string name="height_text">Height</string>
     <string name="weight_text">Weight</string>
     <string name="calculate_text">Calculate</string>
-    <string name="bmi_text">BMI</string>
 </resources>

@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             val weight = weightEditView.text.toString().toDouble()
             val bmi = calculateBMI(height, weight)
 
-            Toast.makeText(this, "${R.string.bmi_text}: $bmi", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "BMI: $bmi", Toast.LENGTH_LONG).show()
         }
     }
 
